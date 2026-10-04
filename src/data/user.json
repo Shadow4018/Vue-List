@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Олександр",
+      "last": "Коваленко"
+    },
+    "location": {
+      "city": "Чернівці",
+      "state": "Чернівецька",
+      "country": "Україна"
+    },
+    "email": "oleksandr.kovalenko@example.com",
+    "phone": "+380 50 123 45 01",
+    "picture": "/users/user-1.png",
+    "dob": {
+      "date": "1998-03-14",
+      "age": 27
+    },
+    "hobbies": [
+      "подорожі",
+      "фотографія",
+      "поїдання вишень"
+    ],
+    "details": "Працює гідом у Єгипті, любить вишні."
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Міку",
+      "last": "Шевченко"
+    },
+    "location": {
+      "city": "Львів",
+      "state": "Львівська",
+      "country": "Україна"
+    },
+    "email": "maria.shevchenko@example.com",
+    "phone": "+380 67 123 45 02",
+    "picture": "/users/user-2.png",
+    "dob": {
+      "date": "2010-07-22",
+      "age": 15
+    },
+    "hobbies": [
+      "малювання",
+      "танці",
+      "вокал"
+    ],
+    "details": "Школярка, відвідує художню студію, стажується як інтернет-провайдер"
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Андрій",
+      "last": "Пропер"
+    },
+    "location": {
+      "city": "Київ",
+      "state": "Київська",
+      "country": "Україна"
+    },
+    "email": "andrii.proper@example.com",
+    "phone": "+380 63 123 45 03",
+    "picture": "/users/user-3.png",
+    "dob": {
+      "date": "1985-11-02",
+      "age": 40
+    },
+    "hobbies": [
+      "риболовля",
+      "шахи",
+      "кулінарія",
+      "прибирання",
+      "садівництво",
+      "велоспорт",
+      "подорожі"
+    ],
+    "details": "Працює прибиральнком у місцевому офісі."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Рейна",
+      "last": "Мельник"
+    },
+    "location": {
+      "city": "Одеса",
+      "state": "Одеська",
+      "country": "Україна"
+    },
+    "email": "reina.melnyk@example.com",
+    "phone": "+380 93 123 45 04",
+    "picture": "/users/user-4.png",
+    "dob": {
+      "date": "1968-01-30",
+      "age": 57
+    },
+    "hobbies": [
+      "полювання на китів",
+      "армреслінг",
+      "стрільба із однозарядної гвинтівки"
+    ],
+    "details": "Викладає українську мову у ліцеї, у вільний час полює на китів."
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Богдан",
+      "last": "Хмельницький"
+    },
+    "location": {
+      "city": "Чигирин",
+      "state": "Черкаська",
+      "country": "Україна"
+    },
+    "email": "bogdan.khmelnytskyi@example.com",
+    "phone": "+380 96 123 45 05",
+    "picture": "/users/user-5.png",
+    "dob": {
+      "date": "2007-09-09",
+      "age": 18
+    },
+    "hobbies": [
+      "походи на Польщу"
+    ],
+    "details": "Засновник національно-визвольної війни, любить походи на Польщу."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Софія",
+      "last": "Кравченко"
+    },
+    "location": {
+      "city": "Дніпро",
+      "state": "Дніпропетровська",
+      "country": "Україна"
+    },
+    "email": "sofia.kravchenko@example.com",
+    "phone": "+380 50 123 45 06",
+    "picture": "/users/user-6.png",
+    "dob": {
+      "date": "1995-05-18",
+      "age": 30
+    },
+    "hobbies": [
+      "бити поляків",
+      "подорожі",
+      "історії"
+    ],
+    "details": "Мандрує Європою, б'ється з поляками, любить історії."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Петро",
+      "last": "Олійник"
+    },
+    "location": {
+      "city": "Вінниця",
+      "state": "Вінницька",
+      "country": "Україна"
+    },
+    "email": "petro.oliinyk@example.com",
+    "phone": "+380 97 123 45 07",
+    "picture": "/users/user-7.png",
+    "dob": {
+      "date": "1974-12-12",
+      "age": 51
+    },
+    "hobbies": [
+      "програмування",
+      "концептостворення"
+    ],
+    "details": "Власник невеликої майстерні."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Дон",
+      "last": "Лисенко Кіхот"
+    },
+    "location": {
+      "city": "Ужгород",
+      "state": "Закарпатська",
+      "country": "Україна"
+    },
+    "email": "don.lysenko@example.com",
+    "phone": "+380 66 123 45 08",
+    "picture": "/users/user-8.png",
+    "dob": {
+      "date": "2012-04-03",
+      "age": 13
+    },
+    "hobbies": [
+      "yapping",
+      "колекціонування всього пов'язаного з фіксерами"
+    ],
+    "details": "Катається на коні із списом і бореться із великими білими монстрами (вітряками)."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Дмитро",
+      "last": "Темненко"
+    },
+    "location": {
+      "city": "Тернопіль",
+      "state": "Тернопільська",
+      "country": "Україна"
+    },
+    "email": "dmytro.temenko@example.com",
+    "phone": "+380 68 123 45 09",
+    "picture": "/users/user-9.png",
+    "dob": {
+      "date": "1990-08-25",
+      "age": 35
+    },
+    "hobbies": [
+      "бігові лижі",
+      "програмування",
+      "кава"
+    ],
+    "details": "Бекенд-інженер, любить марафони."
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Наталія",
+      "last": "Березненко"
+    },
+    "location": {
+      "city": "Полтава",
+      "state": "Полтавська",
+      "country": "Україна"
+    },
+    "email": "nataliia.berеznenko@example.com",
+    "phone": "+380 99 123 45 10",
+    "picture": "/users/user-10.png",
+    "dob": {
+      "date": "1998-06-07",
+      "age": 28
+    },
+    "hobbies": [
+      "відкриття міжпросторових розломів",
+      "створення чорних дір",
+      "майнкрафт"
+    ],
+    "details": "Веде свій сервер у майнкрафт."
+  }
+]
