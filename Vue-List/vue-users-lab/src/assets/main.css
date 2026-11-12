@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.5;
+  color: #18181b;
+  background: #fafafa;
+}
+
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.app__title {
+  margin: 0 0 16px;
+}
+
+.btn {
+  padding: 5px 12px;
+  border: 1px solid #a1a1aa;
+  border-radius: 8px;
+  background: #fff;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.btn:hover:not(:disabled) {
+  background: #e4e4e7;
+}
+.btn:focus-visible {
+  outline: 2px solid #4f46e5;
+  outline-offset: 2px;
+}
+.btn--active {
+  border-color: #4f46e5;
+  background: #4f46e5;
+  color: #fff;
+}
+.btn--active:hover:not(:disabled) {
+  background: #4338ca;
+}
+.btn--reset {
+  margin-left: auto;
+  border-color: #dc2626;
+  color: #dc2626;
+}
+.btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.btn--link {
+  margin-top: 6px;
+  border: 0;
+  background: none;
+  color: #4f46e5;
+  padding-left: 0;
+  text-decoration: underline;
+}
